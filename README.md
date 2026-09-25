@@ -2,10 +2,8 @@
 
 Dieses Repository enthält alle notwendigen Dateien für die Hands-on-Session des Agentic AI Workshops, durchgeführt von sovanta.
 
-Die SAP Joule Studio Test Umgebung ist hier erreichbar: https://sovanta-joule-studio-dev.eu10.build.cloud.sap/lobby
-
 ### Los geht's:
-- [Hands-on Challenge - Sales Support Agent.pdf](Hands-on%20Challenge%20-%20Sales%20Support%20Agent.pdf) ist die Anleitung. Damit fangt ihr an.
+- [Challenge User Guide.pdf](https://github.com/daniel-sov/agents-workshop/blob/main/Challenge%20User%20Guide.pdf) ist die Anleitung. Damit fangt ihr an.
 - [Prompts zum Kopieren.md](Prompts%20zum%20Kopieren.md) enthält die Startkonfiguration für euren Agenten, damit ihr sie nicht aus dem PDF abtippen müsst.
 
 ### Zum Nachschlagen:
